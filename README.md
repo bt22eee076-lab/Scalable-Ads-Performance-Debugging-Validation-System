@@ -1,0 +1,2 @@
+# Scalable-Ads-Performance-Debugging-Validation-System
+Built a Python and SQL based ads debugging system to detect tracking and performance issues in campaign data. The tool validates impressions, clicks and conversions, assigns severity to issues, and stores results in a database for analysis. Designed as a reusable, scalable solution reflecting real world solutions engineering workflows. End-to-end.
